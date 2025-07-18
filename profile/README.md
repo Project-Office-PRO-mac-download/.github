@@ -52,7 +52,7 @@ Project Office PRO is a feature-rich project management software that provides d
 
 ## 🖼️ Preview
 
-![Project Office PRO Screenshot 1](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductScreenshot%2F4232ad69-cdb2-4beb-9980-4fc666661cc2.jpeg&w=3840&q=75)  
+![Project Office PRO Screenshot 1](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/dbb5dca9-c4c8-4895-bafd-648af8636b5a.png?auto=format&q=50)  
 ![Project Office PRO Screenshot 2](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/6d2702ba-47bc-4acd-955d-c6e259079826.jpeg?auto=format&q=50)
 
 ---
